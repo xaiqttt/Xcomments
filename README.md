@@ -89,12 +89,6 @@ This shows the usage instructions and supported file types.
 
 ---
 
-## License
-
-MIT License
-
----
-
 ## Author
 
 Created with purpose by **xaiqttt**
