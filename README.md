@@ -91,4 +91,4 @@ This shows the usage instructions and supported file types.
 
 ## Author
 
-Created with purpose by **xaiqttt**
+Created with purpose by **0X4P0R41**
