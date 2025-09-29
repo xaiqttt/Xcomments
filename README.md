@@ -20,7 +20,7 @@
 ### 1. Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/Xcomments.git
+git clone https://github.com/xaiqttt/Xcomments.git
 cd Xcomments
 ```
 
